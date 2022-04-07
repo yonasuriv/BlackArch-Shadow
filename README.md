@@ -1,4 +1,4 @@
-## Instalación semi-automatica con autoAwesome (s4vitar cfg.
+## Instalación semi-automatica con autoAwesome (s4vitar cfg)
 
 ## La utilidad consta de 5 funciones distintas:
 - Instalar Dependencias.
