@@ -1,4 +1,4 @@
-## Instalación semi-automatica con autoAwesome la config personalizada de s4vitar.
+## Instalación semi-automatica con autoAwesome (s4vitar cfg.
 
 ## La utilidad consta de 5 funciones distintas:
 - Instalar Dependencias.
@@ -35,7 +35,10 @@ bash autoAwesome.sh
 ## Configuración manual:
 - https://youtu.be/fshLf6u8B-w
 
+## Enlace de descarga del repositorio en Google Drive:
+- https://drive.google.com/file/d/1Pgf38WefHAlLXxTdLG3eFBDyamNbKrFJ/view?usp=sharing
+
 ## Créditos
 - Autores: Bleyom y Yorkox. 
 - Editor: yonasuriv. 
-- Inspirado en s4vitar ❤️.
+- Inspirado en s4vitar.
