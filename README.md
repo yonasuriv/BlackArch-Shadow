@@ -41,5 +41,4 @@ bash autoAwesome.sh
 
 ## Créditos
 - Autores: rxyhn (dotfiles), Bleyom y Yorkox. 
-- Editor: yonasuriv. 
 - Inspirado en s4vitar.
