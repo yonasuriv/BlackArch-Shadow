@@ -40,6 +40,6 @@ bash autoAwesome.sh
 - https://drive.google.com/file/d/1Pgf38WefHAlLXxTdLG3eFBDyamNbKrFJ/view?usp=sharing
 
 ## Créditos
-- Autores: Bleyom y Yorkox. 
+- Autores: rxyhn (dotfiles), Bleyom y Yorkox. 
 - Editor: yonasuriv. 
 - Inspirado en s4vitar.
