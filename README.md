@@ -1,4 +1,4 @@
-## autoAwesome es una herrmanienta que permite instalar de forma semi-automática el entorno de trabajo awesome con la config personalizada de s4vitar.
+## Instalación semi-automatica con autoAwesome la config personalizada de s4vitar.
 
 ## La utilidad consta de 5 funciones distintas:
 - Instalar Dependencias.
@@ -37,4 +37,5 @@ bash autoAwesome.sh
 
 ## Créditos
 - Autores: Bleyom y Yorkox. 
+- Editor: yonasuriv. 
 - Inspirado en s4vitar ❤️.
