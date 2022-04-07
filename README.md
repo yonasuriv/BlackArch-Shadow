@@ -1,4 +1,5 @@
 ## Instalación semi-automatica con autoAwesome (s4vitar cfg)
+Antes de proseguir, es recomendable configurar el entorno de forma manual paso a paso por lo menos la primera vez, para saber en todo momento qué se está haciendo y entender sobre qué se está trabajando, además de saber cómo se configura cada cosa.
 
 ## La utilidad consta de 5 funciones distintas:
 - Instalar Dependencias.
