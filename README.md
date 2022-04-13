@@ -14,7 +14,7 @@ Antes de proseguir, es recomendable configurar el entorno de forma manual paso a
 git clone https://github.com/yonasuriv/blackarch-shadow-version; cd shadowblackarch-upd; bash autoAwesome.sh
 ```
 
-**2)** Ejecutamos el archivo 'autoAwesome.sh':
+**2)** Ejecutamos el archivo 'shadowup.sh':
 ```bash
 sh shadowup.sh
 
