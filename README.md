@@ -34,5 +34,9 @@ sh shadowup.sh
 - https://drive.google.com/file/d/1Pgf38WefHAlLXxTdLG3eFBDyamNbKrFJ/view?usp=sharing
 
 ## Créditos
-- rxyhn (dotfiles), Bleyom, Yorkox y yonasuriv
-- Inspirado en s4vitar.
+- rxyhn (dotfiles) 
+- Bleyom
+- Yorkox
+- yonasuriv
+
+### Inspirado en s4vitar.
