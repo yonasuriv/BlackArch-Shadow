@@ -11,7 +11,7 @@ Antes de proseguir, es recomendable configurar el entorno de forma manual paso a
 
 **1)** Clonar el repositorio:
 ```
-git clone https://github.com/yonasuriv/shadowblackarch-upd; cd shadowblackarch-upd; bash autoAwesome.sh
+git clone https://github.com/yonasuriv/blackarch-shadow-version; cd shadowblackarch-upd; bash autoAwesome.sh
 ```
 
 **2)** Ejecutamos el archivo 'autoAwesome.sh':
