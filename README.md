@@ -4,27 +4,21 @@ Antes de proseguir, es recomendable configurar el entorno de forma manual paso a
 ## La utilidad consta de 5 funciones distintas:
 - Instalar Dependencias.
 - Instalar Awesome.
-- Instalar temas de Awesome.
+- Instalar Temas de Awesome.
 - Instalar Rofi, Kitty, Powermenu...
 
 # Instalación
 
 **1)** Clonar el repositorio:
 ```
-git clone https://github.com/yorkox0/autoAwesome
-cd autoAwesome
-```
-### Todo en uno:
-
-```
-git clone https://github.com/yorkox0/autoAwesome; cd autoAwesome; bash autoAwesome.sh
+git clone https://github.com/yonasuriv/shadowblackarch-upd; cd shadowblackarch-upd; bash autoAwesome.sh
 ```
 
 **2)** Ejecutamos el archivo 'autoAwesome.sh':
 ```bash
-bash autoAwesome.sh
+sh shadowup.sh
 
-# bash autoAwesome.sh -r (para ejecutar como root) (Aun no implementado)
+# bash shadowup.sh -r (para ejecutar como root) (Aun no implementado)
 ```
 **3)** ¿Qué hace el script?
 
@@ -40,5 +34,5 @@ bash autoAwesome.sh
 - https://drive.google.com/file/d/1Pgf38WefHAlLXxTdLG3eFBDyamNbKrFJ/view?usp=sharing
 
 ## Créditos
-- Autores: rxyhn (dotfiles), Bleyom y Yorkox. 
+- rxyhn (dotfiles), Bleyom, Yorkox y yonasuriv
 - Inspirado en s4vitar.
